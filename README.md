@@ -2,8 +2,9 @@
 
 ## Indic Loan-words in Tamil
 
-Overview:  
-[Indo-Aryan loanwords in Tamil](https://en.wikipedia.org/wiki/Indo-Aryan_loanwords_in_Tamil)
+### Overview
+- [Indo-Aryan loanwords in Tamil](https://en.wikipedia.org/wiki/Indo-Aryan_loanwords_in_Tamil) - Wikipedia
+- [Sanskrit Roots in Tamil](https://sanskritroots.files.wordpress.com/2013/04/sanskritwordsintamil_v3.pdf) (and corresponding Hindi words)
 
 ### Sources
 
