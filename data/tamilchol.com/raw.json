@@ -1,0 +1,3037 @@
+[
+    {
+        "name": "அஸ்தமனம்",
+        "tamil_word": "மறைவு",
+        "usage_example": ""
+    },
+    {
+        "name": "கஷ்டம்",
+        "tamil_word": "கடினம், துன்பம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சந்தோஷம்",
+        "tamil_word": "மகிழ்ச்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "தஸ்தாவேஜ்",
+        "tamil_word": "ஆவணம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சங்கோஜம்",
+        "tamil_word": "கூச்சம்",
+        "usage_example": ""
+    },
+    {
+        "name": "விஷம்",
+        "tamil_word": "நஞ்சு",
+        "usage_example": ""
+    },
+    {
+        "name": "அவஸ்தை",
+        "tamil_word": "அவதி",
+        "usage_example": ""
+    },
+    {
+        "name": "அராஜகம்",
+        "tamil_word": "கொடுமை",
+        "usage_example": ""
+    },
+    {
+        "name": "அபிஷேகம்",
+        "tamil_word": "திருமஞ்சனம்",
+        "usage_example": ""
+    },
+    {
+        "name": "இஷ்டம்",
+        "tamil_word": "விருப்பம்",
+        "usage_example": ""
+    },
+    {
+        "name": "உஷ்ணம்",
+        "tamil_word": "வெப்பம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சீதோஷ்ணம்",
+        "tamil_word": "தட்பவெப்பம்",
+        "usage_example": ""
+    },
+    {
+        "name": "எஜமான்",
+        "tamil_word": "முதலாளி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஒஸ்தி",
+        "tamil_word": "உயர்வு",
+        "usage_example": ""
+    },
+    {
+        "name": "கஜானா",
+        "tamil_word": "கருவூலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "குஸ்தி",
+        "tamil_word": "மற்போர்",
+        "usage_example": ""
+    },
+    {
+        "name": "சகஜம்",
+        "tamil_word": "வழக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சம்பாஷணை",
+        "tamil_word": "உரையாடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "சிருஷ்டி",
+        "tamil_word": "ஆக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சுபிக்ஷம்",
+        "tamil_word": "செழிப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "சுபிட்சம்",
+        "tamil_word": "செழிப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ராஜாங்கம்",
+        "tamil_word": "அரசு",
+        "usage_example": ""
+    },
+    {
+        "name": "சுதந்திரம்",
+        "tamil_word": "விடுதலை, உரிமை",
+        "usage_example": ""
+    },
+    {
+        "name": "சேஷ்டை",
+        "tamil_word": "குறும்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "தோஷம்",
+        "tamil_word": "குறை",
+        "usage_example": ""
+    },
+    {
+        "name": "பரஸ்பரம்",
+        "tamil_word": "இருவழி",
+        "usage_example": ""
+    },
+    {
+        "name": "பாஷை",
+        "tamil_word": "மொழி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரஜை",
+        "tamil_word": "குடிமகன்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரயோஜனம்",
+        "tamil_word": "பயன்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரத்யக்ஷம்",
+        "tamil_word": "கண்கூடு",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரத்யட்சம்",
+        "tamil_word": "கண்கூடு",
+        "usage_example": ""
+    },
+    {
+        "name": "புஷ்பம்",
+        "tamil_word": "பூ",
+        "usage_example": ""
+    },
+    {
+        "name": "பூஜை",
+        "tamil_word": "பூசை",
+        "usage_example": ""
+    },
+    {
+        "name": "நட்சத்திரம்",
+        "tamil_word": "விண்மீன்",
+        "usage_example": ""
+    },
+    {
+        "name": "நக்ஷத்திரம்",
+        "tamil_word": "விண்மீன்",
+        "usage_example": ""
+    },
+    {
+        "name": "நஷ்டம்",
+        "tamil_word": "இழப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "நமஸ்காரம்",
+        "tamil_word": "வணக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஶ்ரீ",
+        "tamil_word": "திரு",
+        "usage_example": ""
+    },
+    {
+        "name": "விஷயம்",
+        "tamil_word": "சேதி",
+        "usage_example": "என்ன விஷயங்க? = என்ன சேதிங்க?"
+    },
+    {
+        "name": "புஸ்தகம்",
+        "tamil_word": "நூல்",
+        "usage_example": "புஸ்தகம்=புத்தகம்=நூல்"
+    },
+    {
+        "name": "செளக்கியம்",
+        "tamil_word": "நலம்",
+        "usage_example": "என்னங்க செளக்கியமா? = என்னங்க, நலமா?"
+    },
+    {
+        "name": "ஜன்னல்",
+        "tamil_word": "சாளரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "லக்ஷ்மி",
+        "tamil_word": "திருமகள்",
+        "usage_example": "லக்ஷ்மி கடாக்ஷம் = திருமகள் திருப்பார்வை"
+    },
+    {
+        "name": "ஜம்பம்",
+        "tamil_word": "அலட்டல்",
+        "usage_example": ""
+    },
+    {
+        "name": "கிருஹப் பிரவேசம்",
+        "tamil_word": "புதுமனை புகுவிழா",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜங்க்ஷன்",
+        "tamil_word": "சந்திப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "சங்கமம்",
+        "tamil_word": "கூடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஹாஸ்யம்",
+        "tamil_word": "நகைச்சுவை",
+        "usage_example": ""
+    },
+    {
+        "name": "நிரந்தரம்",
+        "tamil_word": "நிலையான",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்வாமி",
+        "tamil_word": "தெய்வம், ஆண்டான்",
+        "usage_example": ""
+    },
+    {
+        "name": "புஷ்கரிணி",
+        "tamil_word": "திருக்குளம்",
+        "usage_example": ""
+    },
+    {
+        "name": "உபயோகம்",
+        "tamil_word": "பயன்பாடு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜலம்",
+        "tamil_word": "நீர், தண்ணீர்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்நானம்",
+        "tamil_word": "குளியல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்நேகிதம்",
+        "tamil_word": "நட்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "லஜ்ஜை",
+        "tamil_word": "வெட்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜாக்கிரதை",
+        "tamil_word": "கவனம்",
+        "usage_example": ""
+    },
+    {
+        "name": "அஜாக்கிரதை",
+        "tamil_word": "கவனக்குறைவு",
+        "usage_example": ""
+    },
+    {
+        "name": "வருஷம்",
+        "tamil_word": "ஆண்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரச்சனை",
+        "tamil_word": "சிக்கல்",
+        "usage_example": ""
+    },
+    {
+        "name": "க்ஷேமம்",
+        "tamil_word": "நலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "கிரகம்",
+        "tamil_word": "கோள்",
+        "usage_example": ""
+    },
+    {
+        "name": "சகோதரன்",
+        "tamil_word": "உடன் பிறப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜீரணம்",
+        "tamil_word": "செரிமானம்",
+        "usage_example": "என்னால் ஜீரணிக்க முடியலை= எனக்குச் செரிக்க முடியலை"
+    },
+    {
+        "name": "சாஸ்திரம்",
+        "tamil_word": "விதிமுறை",
+        "usage_example": "சாசனாத் இதி சாஸ்திரஹ! = செய்/செய்யாதே என்னும் விதிகளின் தொகுப்பு"
+    },
+    {
+        "name": "அர்த்தம்",
+        "tamil_word": "பொருள்",
+        "usage_example": "இதுக்கு என்னப்பா அர்த்தம்? = இதுக்குப் பொருள் என்னப்பா?"
+    },
+    {
+        "name": "விசேஷம்",
+        "tamil_word": "சிறப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "சமஸ்கிருதம்",
+        "tamil_word": "செங்கிருதம், வடமொழி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்கந்தன்",
+        "tamil_word": "கந்தன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸூப்ரமணியன்",
+        "tamil_word": "சேயோன், முருகன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்த்ரீ",
+        "tamil_word": "பெண்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்தோத்திரம்",
+        "tamil_word": "போற்றி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்தாபனம்",
+        "tamil_word": "நிறுவனம்",
+        "usage_example": ""
+    },
+    {
+        "name": "புருஷன்",
+        "tamil_word": "ஆண், கணவன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜெயம்",
+        "tamil_word": "வெற்றி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜோதி",
+        "tamil_word": "சுடர்",
+        "usage_example": "ஆதியும் அந்தமும் இல்லா ஜோதியை=தோற்றமாய் நின்ற சுடரே துயிலெழாய் (ஆண்டாள்)"
+    },
+    {
+        "name": "ஜோதிடம்",
+        "tamil_word": "நிமித்திகம், திருக்கணிதம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜோஸ்யர்",
+        "tamil_word": "நிமித்திகர்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜனநாயகம்",
+        "tamil_word": "மக்களாட்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜமக்காளம்",
+        "tamil_word": "போர்வை, விரிப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜல்லிக்கட்டு",
+        "tamil_word": "சல்லிக்கட்டு, ஏறு தழுவல், மஞ்சு விரட்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜாக்கிரதை",
+        "tamil_word": "கவனம், எச்சரிக்கை",
+        "usage_example": "டேய் ஜாக்கிரதை=டேய் எச்சரிக்கிறேன்! ஜாக்கிரதையா போப்பா=கவனமா போப்பா!"
+    },
+    {
+        "name": "ஜவுளி",
+        "tamil_word": "துணி, ஆடை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜபம்",
+        "tamil_word": "வழிபாடு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜால்ரா",
+        "tamil_word": "தாளம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜென்மம்",
+        "tamil_word": "பிறவி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜீவராசி",
+        "tamil_word": "உயிர், உயிரினம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜொள்ளு",
+        "tamil_word": "எச்சில்",
+        "usage_example": "ஜொள்ளு விடாதே = எச்சில் ஒழுகாதே:)"
+    },
+    {
+        "name": "ஜோடி",
+        "tamil_word": "இணை, இரட்டை",
+        "usage_example": "நல்ல ஜோடி = நல்ல இணை"
+    },
+    {
+        "name": "ஜீவ காருண்யம்",
+        "tamil_word": "உயிர்க்கு இரங்கல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜோலி",
+        "tamil_word": "வேலை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜாடி",
+        "tamil_word": "குடுவை",
+        "usage_example": ""
+    },
+    {
+        "name": "பூகம்பம்",
+        "tamil_word": "நிலநடுக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜூரம்",
+        "tamil_word": "காய்ச்சல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜனம்",
+        "tamil_word": "மக்கள்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜனனம்",
+        "tamil_word": "பிறப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜாதகம்",
+        "tamil_word": "நிமித்திகத் தாள், திருக்கணி இதழ்",
+        "usage_example": ""
+    },
+    {
+        "name": "அஸ்திவாரம்",
+        "tamil_word": "கடைக்கால், அடிப்படை, ஆதாரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "நித்திரை",
+        "tamil_word": "உறக்கம், தூக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பங்கஜம்",
+        "tamil_word": "தாமரை",
+        "usage_example": ""
+    },
+    {
+        "name": "வித்யாலயம்",
+        "tamil_word": "கல்விச்சாலை, கல்விக்கூடம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜீவன்",
+        "tamil_word": "உயிர்",
+        "usage_example": ""
+    },
+    {
+        "name": "ராஜா",
+        "tamil_word": "அரசன்",
+        "usage_example": ""
+    },
+    {
+        "name": "பகிஷ்கரிப்பு",
+        "tamil_word": "புறக்கணிப்பு",
+        "usage_example": "Boycott"
+    },
+    {
+        "name": "அக்ஷரம்",
+        "tamil_word": "எழுத்து",
+        "usage_example": ""
+    },
+    {
+        "name": "அப்பியாசம்",
+        "tamil_word": "பயிற்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரிவுபசாரம்",
+        "tamil_word": "வழியனுப்பு, பிரியாவிடை",
+        "usage_example": ""
+    },
+    {
+        "name": "உபகாரம்",
+        "tamil_word": "உதவி",
+        "usage_example": ""
+    },
+    {
+        "name": "உபத்திரவம்",
+        "tamil_word": "இடையூறு",
+        "usage_example": ""
+    },
+    {
+        "name": "உபாதை",
+        "tamil_word": "கோளாறு",
+        "usage_example": ""
+    },
+    {
+        "name": "உத்வேகம்",
+        "tamil_word": "ஊக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "அஜீரணம்",
+        "tamil_word": "செரிப்பின்மை",
+        "usage_example": "அஜீரணமா இருக்கு-ங்க = செரிக்கலை-ங்க"
+    },
+    {
+        "name": "ரொக்கம்",
+        "tamil_word": "கைப்பணம்",
+        "usage_example": "ரொக்கமாக (cash) ஆயிரம் ரூபாய் செலுத்து = கைப்பணமாக ஆயிரம் ரூபாய் செலுத்து"
+    },
+    {
+        "name": "ஜாஸ்தி",
+        "tamil_word": "அதிகம் , மிகுதி",
+        "usage_example": "விலை ஜாஸ்தியா இருக்கு = விலை அதிகமா இருக்கு"
+    },
+    {
+        "name": "ஜனாதிபதி",
+        "tamil_word": "குடியரசுத் தலைவர்",
+        "usage_example": ""
+    },
+    {
+        "name": "கும்பகோணம்",
+        "tamil_word": "குடந்தை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்ரீரங்கம்",
+        "tamil_word": "திருவரங்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "லெட்ஜர்",
+        "tamil_word": "பேரேடு",
+        "usage_example": ""
+    },
+    {
+        "name": "சமுத்திரம்",
+        "tamil_word": "கடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்ரீநிவாஸம்",
+        "tamil_word": "திருமால்",
+        "usage_example": ""
+    },
+    {
+        "name": "விஷ்ணு",
+        "tamil_word": "பெருமாள்",
+        "usage_example": ""
+    },
+    {
+        "name": "பஞ்சபூதங்கள்",
+        "tamil_word": "ஐம்பூதம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சமாச்சாரம்",
+        "tamil_word": "சேதி",
+        "usage_example": ""
+    },
+    {
+        "name": "வித்வான்",
+        "tamil_word": "அறிஞர், கலைஞர்",
+        "usage_example": "நாதசுர வித்வான் = நாதசுரக் கலைஞர், தமிழ் வித்வான் = தமிழ் அறிஞர்"
+    },
+    {
+        "name": "நாதஸ்வரம்",
+        "tamil_word": "நாதசுரம், நாகசுரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "திவ்யப் பிரபந்தம்",
+        "tamil_word": "அருளிச் செயல்",
+        "usage_example": "ஆழ்வார் அருளிச் செயல், 4000 திவ்யப் பிரபந்தம் = 4000 அருளிச் செயல்"
+    },
+    {
+        "name": "சாதாரணம்",
+        "tamil_word": "பொது",
+        "usage_example": "சாதாரணமாக=பொதுவாக; அசாதாரணமான=சிறப்பான"
+    },
+    {
+        "name": "இஸ்திரி",
+        "tamil_word": "துணிமடிப்பு, துணித்தேய்ப்பு",
+        "usage_example": "துணி தோய்க்கணும், அப்பறம் தேய்க்கணும்"
+    },
+    {
+        "name": "தேஜஸ்",
+        "tamil_word": "ஒளி",
+        "usage_example": ""
+    },
+    {
+        "name": "உஷார்",
+        "tamil_word": "எச்சரிக்கை, விழிப்பு",
+        "usage_example": "உஷாராய் இரு = விழிப்பாய் இரு"
+    },
+    {
+        "name": "குஷி",
+        "tamil_word": "உவகை, மகிழ்ச்சி, களிப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜட்கா",
+        "tamil_word": "வண்டி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜமீன்தார்",
+        "tamil_word": "நிலக்கிழார், பண்ணையார்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜாகை",
+        "tamil_word": "இடம், உள்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜப்தி",
+        "tamil_word": "கையகப்படுத்தல்",
+        "usage_example": ""
+    },
+    {
+        "name": "தமாஷ்",
+        "tamil_word": "நகைச்சுவை",
+        "usage_example": ""
+    },
+    {
+        "name": "பஜார்",
+        "tamil_word": "கடைவீதி",
+        "usage_example": ""
+    },
+    {
+        "name": "பேஜார்",
+        "tamil_word": "தொல்லை",
+        "usage_example": "ஒரே பேஜாரா இருக்குப்பா = ஒரே தொல்லையா இருக்குப்பா"
+    },
+    {
+        "name": "மாஜி",
+        "tamil_word": "முன்னாள்",
+        "usage_example": "மாஜி மந்திரி = முன்னாள் அமைச்சர்"
+    },
+    {
+        "name": "பஞ்சாயத்து",
+        "tamil_word": "ஐந்தாயம்",
+        "usage_example": ""
+    },
+    {
+        "name": "வாபஸ்",
+        "tamil_word": "திரும்பப் பெறு",
+        "usage_example": ""
+    },
+    {
+        "name": "ராஜ்ய சபா",
+        "tamil_word": "மேலவை, மாநிலங்களவை",
+        "usage_example": ""
+    },
+    {
+        "name": "லோக் சபா",
+        "tamil_word": "மக்களவை",
+        "usage_example": ""
+    },
+    {
+        "name": "உயில்",
+        "tamil_word": "முறி",
+        "usage_example": ""
+    },
+    {
+        "name": "பல்லவி",
+        "tamil_word": "எடுப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "அனுபல்லவி",
+        "tamil_word": "தொடுப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "சரணம்",
+        "tamil_word": "முடிப்பு",
+        "usage_example": "பல்லவி, அனுபல்லவி, சரணம் = எடுப்பு, தொடுப்பு, முடிப்பு"
+    },
+    {
+        "name": "பிரசவம்",
+        "tamil_word": "மகப்பேறு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆஸ்பத்திரி",
+        "tamil_word": "மருத்துவமனை",
+        "usage_example": ""
+    },
+    {
+        "name": "அகஸ்மாத்து",
+        "tamil_word": "தற்செயல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆஜர்",
+        "tamil_word": "வருகை",
+        "usage_example": ""
+    },
+    {
+        "name": "அந்தஸ்து",
+        "tamil_word": "நிலைமை",
+        "usage_example": ""
+    },
+    {
+        "name": "கூஜா",
+        "tamil_word": "தூக்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆஸ்தி",
+        "tamil_word": "செல்வம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்ரீலஸ்ரீ",
+        "tamil_word": "தவத்திரு",
+        "usage_example": ""
+    },
+    {
+        "name": "விவாஹம்",
+        "tamil_word": "திருமணம்",
+        "usage_example": ""
+    },
+    {
+        "name": "வாலிபம்",
+        "tamil_word": "இளமை",
+        "usage_example": ""
+    },
+    {
+        "name": "விக்ரஹம்",
+        "tamil_word": "திருவுருவம்",
+        "usage_example": ""
+    },
+    {
+        "name": "க்ஷேத்திரம்",
+        "tamil_word": "திருத்தலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "மாமிசம்",
+        "tamil_word": "இறைச்சி, ஊன்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரஸாதம்",
+        "tamil_word": "திருப்பொருள், திருவமுது",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரயாணம்",
+        "tamil_word": "பயணம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரயாணி",
+        "tamil_word": "பயணி",
+        "usage_example": ""
+    },
+    {
+        "name": "பதிவிரதை",
+        "tamil_word": "கற்புடையாள், கற்புடையான்",
+        "usage_example": ""
+    },
+    {
+        "name": "பஜனை",
+        "tamil_word": "குழுப்பாடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரகாரம்",
+        "tamil_word": "திருச்சுற்று",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரதட்சணம்",
+        "tamil_word": "வலம்வருதல்",
+        "usage_example": ""
+    },
+    {
+        "name": "அங்கப் பிரதட்சணம்",
+        "tamil_word": "மெய் வலம்வரல்",
+        "usage_example": ""
+    },
+    {
+        "name": "மத்தியானம்",
+        "tamil_word": "நண்பகல்",
+        "usage_example": ""
+    },
+    {
+        "name": "சாயந்திரம்",
+        "tamil_word": "மாலை",
+        "usage_example": ""
+    },
+    {
+        "name": "நடு ஜாமம்",
+        "tamil_word": "நள்ளிரவு",
+        "usage_example": ""
+    },
+    {
+        "name": "பெளர்ணமி",
+        "tamil_word": "முழுமதி",
+        "usage_example": ""
+    },
+    {
+        "name": "அமாவாசை",
+        "tamil_word": "இல்மதி",
+        "usage_example": ""
+    },
+    {
+        "name": "சூட்சுமம்",
+        "tamil_word": "நுட்பம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சுவீகாரம்",
+        "tamil_word": "தத்து",
+        "usage_example": ""
+    },
+    {
+        "name": "சுபாவம்",
+        "tamil_word": "இயல்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "சமீபம்",
+        "tamil_word": "அண்மை",
+        "usage_example": ""
+    },
+    {
+        "name": "சம்பிரதாயம்",
+        "tamil_word": "மரபு",
+        "usage_example": ""
+    },
+    {
+        "name": "சரணம்",
+        "tamil_word": "தஞ்சம்",
+        "usage_example": "புத்தம் சரணம் = புத்தரே தஞ்சம்"
+    },
+    {
+        "name": "சாஸ்வதம்",
+        "tamil_word": "நிலையான",
+        "usage_example": ""
+    },
+    {
+        "name": "சீமந்தம்",
+        "tamil_word": "முதற்சூல்",
+        "usage_example": "சீமந்தம் function = முதற்சூல் விழா"
+    },
+    {
+        "name": "கேஷியர்",
+        "tamil_word": "காசாளர்",
+        "usage_example": ""
+    },
+    {
+        "name": "குஷ்டம்",
+        "tamil_word": "தொழுநோய்",
+        "usage_example": ""
+    },
+    {
+        "name": "குஷ்ட ரோகம்",
+        "tamil_word": "தொழுநோய்",
+        "usage_example": ""
+    },
+    {
+        "name": "கிராமம்",
+        "tamil_word": "சிற்றூர்",
+        "usage_example": ""
+    },
+    {
+        "name": "டவுன்",
+        "tamil_word": "பேரூர்",
+        "usage_example": ""
+    },
+    {
+        "name": "உத்தியோகம்",
+        "tamil_word": "பணி, அலுவல்",
+        "usage_example": ""
+    },
+    {
+        "name": "உதாரணம்",
+        "tamil_word": "சான்று, காட்டு, எடுத்துக்காட்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "லட்சம்",
+        "tamil_word": "நூறாயிரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "அகங்காரம்",
+        "tamil_word": "செருக்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "அங்கத்தினர்",
+        "tamil_word": "உறுப்பினர்",
+        "usage_example": ""
+    },
+    {
+        "name": "அபிப்ராயம்",
+        "tamil_word": "கருத்து",
+        "usage_example": ""
+    },
+    {
+        "name": "குமாஸ்தா",
+        "tamil_word": "அலுவலர்",
+        "usage_example": ""
+    },
+    {
+        "name": "அவரோஹணம்",
+        "tamil_word": "அமரோசை, இறங்குநிரல், இறங்குவரிசை, இறங்கோசை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆரோஹணம்",
+        "tamil_word": "ஆரோசை, ஏறுநிரல், ஏறுவரிசை, ஏறோசை",
+        "usage_example": ""
+    },
+    {
+        "name": "துஷ்பிரயோகம்",
+        "tamil_word": "தவறான பயன்பாடு, தீய பயன்பாடு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜலதோஷம்",
+        "tamil_word": "தடிமன், சளி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜாமீன்",
+        "tamil_word": "பிணை",
+        "usage_example": ""
+    },
+    {
+        "name": "சபாநாயகர்",
+        "tamil_word": "அவைத்தலைவர்",
+        "usage_example": ""
+    },
+    {
+        "name": "கஜம்",
+        "tamil_word": "இரு முழம்",
+        "usage_example": "1 கஜம் = 2 முழம் (துணி அளவை)"
+    },
+    {
+        "name": "பெளதீகம்",
+        "tamil_word": "இயற்பியல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ரசாயணம்",
+        "tamil_word": "வேதியியல்",
+        "usage_example": ""
+    },
+    {
+        "name": "அனுஜன்",
+        "tamil_word": "தம்பி",
+        "usage_example": ""
+    },
+    {
+        "name": "பூர்வஜன்",
+        "tamil_word": "அண்ணன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜாலம்",
+        "tamil_word": "வித்தை",
+        "usage_example": "வார்த்தை ஜாலம் = சொல்வித்தை"
+    },
+    {
+        "name": "ஈஸ்வரன்",
+        "tamil_word": "ஈசன்",
+        "usage_example": ""
+    },
+    {
+        "name": "அதிருஷ்டம்",
+        "tamil_word": "நற்பேறு, நல்லூழ்",
+        "usage_example": ""
+    },
+    {
+        "name": "அபூர்வம்",
+        "tamil_word": "அரிது, அரிய",
+        "usage_example": "அபூர்வமான சிற்பம் = அரிய சிற்பம்"
+    },
+    {
+        "name": "அவசியம்",
+        "tamil_word": "தேவை",
+        "usage_example": "அவசியமான ஒன்று = தேவையான ஒன்று"
+    },
+    {
+        "name": "அனுஷ்டி",
+        "tamil_word": "கடைப்பிடி, கைக்கொள்",
+        "usage_example": "மெளனம் அனுஷ்டிப்போம் = அமைதி கடைப்பிடிப்போம்"
+    },
+    {
+        "name": "ஆட்சேபணை",
+        "tamil_word": "எதிர்ப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "உவமானம்",
+        "tamil_word": "உவமை",
+        "usage_example": ""
+    },
+    {
+        "name": "அந்தரங்கம்",
+        "tamil_word": "தனிப்பட்ட",
+        "usage_example": "privacy=தனியுரிமை! அந்தரங்கமான = தனிப்பட்ட"
+    },
+    {
+        "name": "உபவாசம்",
+        "tamil_word": "உண்ணா நோன்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "விரதம்",
+        "tamil_word": "நோன்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "உற்சவம்",
+        "tamil_word": "விழா",
+        "usage_example": ""
+    },
+    {
+        "name": "கஷாயம்",
+        "tamil_word": "மருந்துநீர்,கருக்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "கச்சேரி",
+        "tamil_word": "அரங்கிசை",
+        "usage_example": ""
+    },
+    {
+        "name": "கஸ்தூரி",
+        "tamil_word": "காசறை",
+        "usage_example": "கஸ்தூரி மஞ்சள் = காசறை மஞ்சள்"
+    },
+    {
+        "name": "சகலம்",
+        "tamil_word": "எல்லாம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சரீரம்",
+        "tamil_word": "உடம்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "சாரீரம்",
+        "tamil_word": "குரல்",
+        "usage_example": ""
+    },
+    {
+        "name": "சங்கீதம்",
+        "tamil_word": "இசை",
+        "usage_example": ""
+    },
+    {
+        "name": "சங்கடம்",
+        "tamil_word": "துன்பம், இடர்",
+        "usage_example": ""
+    },
+    {
+        "name": "சக்கரவர்த்தி",
+        "tamil_word": "பேரரசர்",
+        "usage_example": ""
+    },
+    {
+        "name": "சந்தேகம்",
+        "tamil_word": "ஐயம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சம்பூரணம்",
+        "tamil_word": "முழுமை, நிறைவு",
+        "usage_example": ""
+    },
+    {
+        "name": "சன்மார்க்கம்",
+        "tamil_word": "நன்னெறி",
+        "usage_example": ""
+    },
+    {
+        "name": "சிசு",
+        "tamil_word": "குழந்தை, மகவு",
+        "usage_example": ""
+    },
+    {
+        "name": "சிச்ருஷை",
+        "tamil_word": "பணிவிடை",
+        "usage_example": ""
+    },
+    {
+        "name": "சுத்தம்",
+        "tamil_word": "தூய்மை",
+        "usage_example": "சுத்தத் தமிழ் = தூய தமிழ்"
+    },
+    {
+        "name": "கலாச்சாரம்",
+        "tamil_word": "பண்பாடு",
+        "usage_example": "தமிழ்க் கலாச்சாரம் = தமிழ்ப் பண்பாடு"
+    },
+    {
+        "name": "சௌகர்யம் / சௌகரியம்",
+        "tamil_word": "நலம், வசதி",
+        "usage_example": "செளகர்யமா இருக்கேன் = நலமா இருக்கேன்"
+    },
+    {
+        "name": "அசௌகரியம் / அசௌகர்யம்",
+        "tamil_word": "நலக்குறைவு",
+        "usage_example": ""
+    },
+    {
+        "name": "கலாக்ஷேத்ரா",
+        "tamil_word": "கலைக்கூடம்",
+        "usage_example": ""
+    },
+    {
+        "name": "தேவஸ்தானம்",
+        "tamil_word": "ஆலயம், திருக்கோயில்",
+        "usage_example": ""
+    },
+    {
+        "name": "தம்பதிகள்",
+        "tamil_word": "மணமக்கள், இணையர்",
+        "usage_example": ""
+    },
+    {
+        "name": "தீர்த்தம்",
+        "tamil_word": "நன்னீர்",
+        "usage_example": ""
+    },
+    {
+        "name": "தீபம்",
+        "tamil_word": "சுடர்",
+        "usage_example": ""
+    },
+    {
+        "name": "துஷ்டன்",
+        "tamil_word": "தீயவன்",
+        "usage_example": ""
+    },
+    {
+        "name": "துஷ்ட மிருகங்கள்",
+        "tamil_word": "கொடிய விலங்குகள்",
+        "usage_example": ""
+    },
+    {
+        "name": "துர்லபம்",
+        "tamil_word": "அரிது",
+        "usage_example": ""
+    },
+    {
+        "name": "துரிதம்",
+        "tamil_word": "விரைவு, வேகம்",
+        "usage_example": "துரிதப்படுத்து = விரைவாக்கு"
+    },
+    {
+        "name": "பகிரங்கம்",
+        "tamil_word": "வெளிப்படை",
+        "usage_example": ""
+    },
+    {
+        "name": "பஞ்சாமிர்தம்",
+        "tamil_word": "ஐந்தமுது",
+        "usage_example": ""
+    },
+    {
+        "name": "பஞ்சாங்கம்",
+        "tamil_word": "ஐந்திறம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பதார்த்தம்",
+        "tamil_word": "கறி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிராயச்சித்தம்",
+        "tamil_word": "கழுவாய்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரகாசம்",
+        "tamil_word": "வெளிச்சம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரயாசை",
+        "tamil_word": "முயற்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரசுரம்",
+        "tamil_word": "வெளியீடு",
+        "usage_example": ""
+    },
+    {
+        "name": "புஷ்டி",
+        "tamil_word": "புடைப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "பூர்வீகம்",
+        "tamil_word": "பழமை",
+        "usage_example": ""
+    },
+    {
+        "name": "நைவேத்யம்",
+        "tamil_word": "படையல்",
+        "usage_example": ""
+    },
+    {
+        "name": "நிவேதனம்",
+        "tamil_word": "படையல்",
+        "usage_example": ""
+    },
+    {
+        "name": "யாத்திரை",
+        "tamil_word": "பயணம்",
+        "usage_example": ""
+    },
+    {
+        "name": "யதார்த்தம்",
+        "tamil_word": "இயல்பான",
+        "usage_example": ""
+    },
+    {
+        "name": "யாகம்",
+        "tamil_word": "வேள்வி",
+        "usage_example": ""
+    },
+    {
+        "name": "யோக்கியதை",
+        "tamil_word": "தகுதி",
+        "usage_example": ""
+    },
+    {
+        "name": "ரகசியம்",
+        "tamil_word": "கமுக்கம், மறைபொருள்",
+        "usage_example": ""
+    },
+    {
+        "name": "வாஸ்தவம்",
+        "tamil_word": "மெய்",
+        "usage_example": "வாஸ்தவமான பேச்சு = மெய்யான பேச்சு"
+    },
+    {
+        "name": "வாய்தா",
+        "tamil_word": "கெடு",
+        "usage_example": ""
+    },
+    {
+        "name": "வாயு",
+        "tamil_word": "காற்று, வளி",
+        "usage_example": ""
+    },
+    {
+        "name": "வியாதி",
+        "tamil_word": "நோய்",
+        "usage_example": ""
+    },
+    {
+        "name": "வியாபாரம்",
+        "tamil_word": "வணிகம்",
+        "usage_example": ""
+    },
+    {
+        "name": "வியாபாரி",
+        "tamil_word": "வணிகர்",
+        "usage_example": ""
+    },
+    {
+        "name": "விரோதி",
+        "tamil_word": "பகைவன்",
+        "usage_example": ""
+    },
+    {
+        "name": "விவகாரம்",
+        "tamil_word": "சிக்கல், வழக்கு",
+        "usage_example": "இதுல ஏதோ விவகாரம் இருக்குப்பா = இதுல ஏதோ சிக்கல் இருக்குப்பா!"
+    },
+    {
+        "name": "விவசாயம்",
+        "tamil_word": "உழவு, வேளாண்மை",
+        "usage_example": ""
+    },
+    {
+        "name": "வைத்தியம்",
+        "tamil_word": "மருத்துவம்",
+        "usage_example": ""
+    },
+    {
+        "name": "வைத்தியர்",
+        "tamil_word": "மருத்துவர்",
+        "usage_example": ""
+    },
+    {
+        "name": "விசுவாசம்",
+        "tamil_word": "நம்பிக்கை",
+        "usage_example": ""
+    },
+    {
+        "name": "விருக்ஷம்",
+        "tamil_word": "மரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "விசாரணை",
+        "tamil_word": "வினவல்",
+        "usage_example": ""
+    },
+    {
+        "name": "வித்தியாசம்",
+        "tamil_word": "வேறுபாடு",
+        "usage_example": ""
+    },
+    {
+        "name": "முகஸ்துதி",
+        "tamil_word": "முகமன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜீவிதம்",
+        "tamil_word": "வாழ்க்கை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜீவனம்",
+        "tamil_word": "பிழைப்பு, வாழ்க்கை",
+        "usage_example": ""
+    },
+    {
+        "name": "தயார்",
+        "tamil_word": "ஆயத்தம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சாவி",
+        "tamil_word": "திறவுகோல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்தம்பித்தல்",
+        "tamil_word": "திகைத்தல், செயலற்று நிற்றல்",
+        "usage_example": ""
+    },
+    {
+        "name": "வஸ்திரம்",
+        "tamil_word": "ஆடை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்திரம்",
+        "tamil_word": "நிலையானது",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜட்டி",
+        "tamil_word": "கீழாடை, உள்ளாடை, இடை ஆடை",
+        "usage_example": "கோவணம் வேணாம்! ஒரு மாதிரியா இருக்கா?:)"
+    },
+    {
+        "name": "கிருகம்",
+        "tamil_word": "மனை",
+        "usage_example": ""
+    },
+    {
+        "name": "சிஷ்யன்",
+        "tamil_word": "மாணவன்",
+        "usage_example": ""
+    },
+    {
+        "name": "நாமம்",
+        "tamil_word": "பெயர்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஷிரார்த்தம்/தர்ப்பணம்",
+        "tamil_word": "நீர்க்கடன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ரிஷி",
+        "tamil_word": "துறவி, அடிகள்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்நேகம்",
+        "tamil_word": "நட்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்தலம்",
+        "tamil_word": "இடம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ரௌத்திரம்",
+        "tamil_word": "சினம்",
+        "usage_example": ""
+    },
+    {
+        "name": "அஷ்டம",
+        "tamil_word": "எட்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "கோஷ்டி",
+        "tamil_word": "கூட்டம்/குழாம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸாமான் ",
+        "tamil_word": "பொருள்",
+        "usage_example": ""
+    },
+    {
+        "name": "கிருபை",
+        "tamil_word": "அருள்",
+        "usage_example": ""
+    },
+    {
+        "name": "தாஸ்/தாசன்",
+        "tamil_word": "அடிமை, அடியவர்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்வர்ணம்/சொர்ணம்",
+        "tamil_word": "தங்கம், பொன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஷியாமள",
+        "tamil_word": "கருமை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்திரீ",
+        "tamil_word": "பெண்",
+        "usage_example": ""
+    },
+    {
+        "name": "மாங்கல்யம்",
+        "tamil_word": "தாலி",
+        "usage_example": ""
+    },
+    {
+        "name": "இரசம்",
+        "tamil_word": "சாறு",
+        "usage_example": ""
+    },
+    {
+        "name": "கமலம்",
+        "tamil_word": "தாமரை",
+        "usage_example": "செங்கமலம் - செந்தாமரை"
+    },
+    {
+        "name": "பத்ம",
+        "tamil_word": "தாமரை",
+        "usage_example": ""
+    },
+    {
+        "name": "கிருஷ்ணன்",
+        "tamil_word": "கண்ணன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஐஸ்வர்யம்",
+        "tamil_word": "செல்வம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பக்ஷணம் / பட்சணம்",
+        "tamil_word": "உணவு/பலகாரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சதுர்",
+        "tamil_word": "நான்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "வேதம்",
+        "tamil_word": "மறை",
+        "usage_example": ""
+    },
+    {
+        "name": "மோட்சம்/சுவர்கம்",
+        "tamil_word": "வீடுபேறு",
+        "usage_example": ""
+    },
+    {
+        "name": "பாஜகம்",
+        "tamil_word": "உணவு",
+        "usage_example": ""
+    },
+    {
+        "name": "பட்ஷி/பக்ஷி/பட்சி",
+        "tamil_word": "பறவை",
+        "usage_example": ""
+    },
+    {
+        "name": "ரிஷபம்/ரிடபம்",
+        "tamil_word": "காளை",
+        "usage_example": ""
+    },
+    {
+        "name": "கீர்த்தி",
+        "tamil_word": "புகழ்",
+        "usage_example": ""
+    },
+    {
+        "name": "உபந்நியாசம்",
+        "tamil_word": "விரிவுரை/சமய சொற்பொழிவு",
+        "usage_example": ""
+    },
+    {
+        "name": "த்வேஷம்",
+        "tamil_word": "பகை",
+        "usage_example": ""
+    },
+    {
+        "name": "துவம்சம்",
+        "tamil_word": "அழித்தல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ரஸம்",
+        "tamil_word": "உணர்வு",
+        "usage_example": "நவரசம்"
+    },
+    {
+        "name": "ஜெகம்",
+        "tamil_word": "உலகம்",
+        "usage_example": ""
+    },
+    {
+        "name": "அக்ரஹாரம்",
+        "tamil_word": "தெரு/வீதி",
+        "usage_example": ""
+    },
+    {
+        "name": "தரிசனம்/தர்ஷன்",
+        "tamil_word": "காட்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "நாஷ்டா",
+        "tamil_word": "சிற்றுண்டி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆசனம்",
+        "tamil_word": "இருக்கை",
+        "usage_example": ""
+    },
+    {
+        "name": "இராச்சியம்/இராஜ்ஜியம்",
+        "tamil_word": "நாடு",
+        "usage_example": ""
+    },
+    {
+        "name": "உத்சவம்",
+        "tamil_word": "ஊருலா/ஊர் உலா",
+        "usage_example": ""
+    },
+    {
+        "name": "கரகோஷம்",
+        "tamil_word": "கரவொலி",
+        "usage_example": ""
+    },
+    {
+        "name": "சரஸ்வதி",
+        "tamil_word": "கலைமகள்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆஷ்ரம்",
+        "tamil_word": "தவக்குடில்",
+        "usage_example": ""
+    },
+    {
+        "name": "பந்தம் ",
+        "tamil_word": "பிணைப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "இராகம்",
+        "tamil_word": "இசை/பண்",
+        "usage_example": ""
+    },
+    {
+        "name": "விமானம்",
+        "tamil_word": "வான ஊர்தி/வானூர்தி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிராமணர்",
+        "tamil_word": "பார்ப்பனர், அந்தணர்",
+        "usage_example": ""
+    },
+    {
+        "name": "மார்க்கம் ",
+        "tamil_word": "வழி/நெறி",
+        "usage_example": ""
+    },
+    {
+        "name": "திருஷ்டி",
+        "tamil_word": "பார்வை/ நோக்குதல்",
+        "usage_example": ""
+    },
+    {
+        "name": "காயம்",
+        "tamil_word": "உடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "குரோதம்",
+        "tamil_word": "சினம்/பகை",
+        "usage_example": ""
+    },
+    {
+        "name": "லீலை",
+        "tamil_word": "விளையாட்டு",
+        "usage_example": "கிருஷ்ணலீலை/திருவிளையாடல்"
+    },
+    {
+        "name": "மகா",
+        "tamil_word": "மா/பெரிய",
+        "usage_example": ""
+    },
+    {
+        "name": "சத்தியம்",
+        "tamil_word": "வாய்மை",
+        "usage_example": ""
+    },
+    {
+        "name": "சர்வம்",
+        "tamil_word": "எல்லாம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சாந்தி",
+        "tamil_word": "அமைதி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிராணயாமம்",
+        "tamil_word": "மூச்சுப் பயிற்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "பவித்ரம்",
+        "tamil_word": "தூய்மை",
+        "usage_example": ""
+    },
+    {
+        "name": "நித்யம்",
+        "tamil_word": "நிலைத்த, முடிவில்லாத",
+        "usage_example": ""
+    },
+    {
+        "name": "நரகம்",
+        "tamil_word": "அளறு",
+        "usage_example": ""
+    },
+    {
+        "name": "விஜயம்",
+        "tamil_word": "வருகை",
+        "usage_example": ""
+    },
+    {
+        "name": "ராக்ஷசன்/ ராட்சசன்",
+        "tamil_word": "அசுரன்/நரகன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஏகம்/ஏக",
+        "tamil_word": "ஒன்று",
+        "usage_example": ""
+    },
+    {
+        "name": "த்ரி ",
+        "tamil_word": "மூன்று",
+        "usage_example": ""
+    },
+    {
+        "name": "சூன்யம்/சூன்ய",
+        "tamil_word": "வெறுமை/சுழி",
+        "usage_example": ""
+    },
+    {
+        "name": "பஞ்ச -",
+        "tamil_word": "ஐந்து",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸப்த",
+        "tamil_word": "ஏழு",
+        "usage_example": ""
+    },
+    {
+        "name": "தச",
+        "tamil_word": "பத்து",
+        "usage_example": ""
+    },
+    {
+        "name": "அசலம்",
+        "tamil_word": "மலை",
+        "usage_example": "வெங்கடாசலம் - வேங்கட மலை"
+    },
+    {
+        "name": "ஆகாசம்",
+        "tamil_word": "வான்வெளி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆர்த்தி",
+        "tamil_word": "தீபம்/ஒளி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஷ்ரவணம்",
+        "tamil_word": "ஆவணி/திருவோணம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ப்ரியம்",
+        "tamil_word": "அன்பு/விருப்பம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சர்ப்பம்",
+        "tamil_word": "நாகம்/பாம்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ரூபம்",
+        "tamil_word": "வடிவம்/உருவம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பகவான்",
+        "tamil_word": "இறைவன்",
+        "usage_example": ""
+    },
+    {
+        "name": "நிரோதம்",
+        "tamil_word": "கட்டுப்பாடு",
+        "usage_example": ""
+    },
+    {
+        "name": "கீதம்",
+        "tamil_word": "பாடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜெய்",
+        "tamil_word": "வெற்றி",
+        "usage_example": ""
+    },
+    {
+        "name": "கும்பம்",
+        "tamil_word": "பானை/குடம்",
+        "usage_example": ""
+    },
+    {
+        "name": "விஜய் ",
+        "tamil_word": "வெற்றி",
+        "usage_example": "வெற்றி அடைதல்"
+    },
+    {
+        "name": "சுப்ரபாதம்",
+        "tamil_word": "திருப்பள்ளியெழுச்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆபரணம்",
+        "tamil_word": "அணிகலன்",
+        "usage_example": ""
+    },
+    {
+        "name": "விருட்சம்",
+        "tamil_word": "மரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சௌக்கியம்",
+        "tamil_word": "நலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சரித்திரம்",
+        "tamil_word": "வரலாறு",
+        "usage_example": ""
+    },
+    {
+        "name": "உதாசீனம்",
+        "tamil_word": "அசட்டை, கவனியாமை",
+        "usage_example": ""
+    },
+    {
+        "name": "சகாயம்",
+        "tamil_word": "உதவி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்பஷ்டமாக",
+        "tamil_word": "தெளிவாக",
+        "usage_example": "ஸ்பஷ்டமாக பேசுகிறான்"
+    },
+    {
+        "name": "ஆரம்பம்",
+        "tamil_word": "துவக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "வாகனம்",
+        "tamil_word": "வண்டி",
+        "usage_example": ""
+    },
+    {
+        "name": "நர்த்தனம்",
+        "tamil_word": "நடனம்/ஆடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "மித்ரன்",
+        "tamil_word": "தோழன்",
+        "usage_example": ""
+    },
+    {
+        "name": "அம்பா",
+        "tamil_word": "அன்னை/தாய்",
+        "usage_example": ""
+    },
+    {
+        "name": "அத்யம்",
+        "tamil_word": "இன்று",
+        "usage_example": ""
+    },
+    {
+        "name": "சாயா",
+        "tamil_word": "நிழல்",
+        "usage_example": "சாயங்காலம்/மாலை- மால+ஐ- கருமை"
+    },
+    {
+        "name": "மத்யம்",
+        "tamil_word": "நடு",
+        "usage_example": ""
+    },
+    {
+        "name": "பாரிஜாதம்",
+        "tamil_word": "பவளமல்லி",
+        "usage_example": ""
+    },
+    {
+        "name": "வராகம்",
+        "tamil_word": "பன்றி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆஷாட",
+        "tamil_word": "புரட்டாசி",
+        "usage_example": "ஆஷாட-பூராட நட்சத்திரம்"
+    },
+    {
+        "name": "அஸ்வின",
+        "tamil_word": "ஐப்பசி",
+        "usage_example": ""
+    },
+    {
+        "name": "மார்கசீரிஷ",
+        "tamil_word": "மார்கழி",
+        "usage_example": ""
+    },
+    {
+        "name": "பால்குந",
+        "tamil_word": "பங்குனி",
+        "usage_example": ""
+    },
+    {
+        "name": "நிருத்தம்",
+        "tamil_word": "நடனம்",
+        "usage_example": ""
+    },
+    {
+        "name": "வாமனம்",
+        "tamil_word": "குள்ளம்",
+        "usage_example": ""
+    },
+    {
+        "name": "புராதனம்",
+        "tamil_word": "பழைமை",
+        "usage_example": ""
+    },
+    {
+        "name": "நூதனம்",
+        "tamil_word": "புதுமை",
+        "usage_example": ""
+    },
+    {
+        "name": "பூர்ண",
+        "tamil_word": "முழுமையான",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸங்கல்பம்",
+        "tamil_word": "உறுதிமொழி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸந்தேஹம்",
+        "tamil_word": "ஐயம்",
+        "usage_example": "சந்தேகம்"
+    },
+    {
+        "name": "அகிம்சை",
+        "tamil_word": "வன்முறையின்மை, மென்முறை",
+        "usage_example": "காந்தி வன்முறையைத் தவிர்த்தார்."
+    },
+    {
+        "name": "மஹாத்மா",
+        "tamil_word": "பேருயிர், அடிகள், அண்ணல்",
+        "usage_example": "மஹாத்மா காந்தி"
+    },
+    {
+        "name": "சாத்வீகம்",
+        "tamil_word": "அமைதி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜென்ம சாபல்யம்",
+        "tamil_word": "பிறவிப்பயன்",
+        "usage_example": ""
+    },
+    {
+        "name": "விஸ்தீரணம்",
+        "tamil_word": "பரப்பளவு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜபர்தஸ்து",
+        "tamil_word": "வீண் பெருமை, ஆடம்பரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பந்த்",
+        "tamil_word": "கடையடைப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஹர்த்தால்",
+        "tamil_word": "கடையடைப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "அவஸ்யம்",
+        "tamil_word": "தேவை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜீவ நதி",
+        "tamil_word": "வற்றா ஆறு",
+        "usage_example": ""
+    },
+    {
+        "name": "திருஷ்டாந்தம்",
+        "tamil_word": "எடுத்துக்காட்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்தம்பம்",
+        "tamil_word": "தூண், மரம்",
+        "usage_example": "துவஜ ஸ்தம்பம் = கொடி மரம்"
+    },
+    {
+        "name": "ஜில்பான்ஸ்",
+        "tamil_word": "கிளுகிளு",
+        "usage_example": ""
+    },
+    {
+        "name": "நிமிஷம்",
+        "tamil_word": "மணித்துளி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரசாதம்",
+        "tamil_word": "திருப்பொருள், நல்லுணவு, திருவமுது",
+        "usage_example": ""
+    },
+    {
+        "name": "வியாஜம்",
+        "tamil_word": "காரணம்",
+        "usage_example": ""
+    },
+    {
+        "name": "தினசரி",
+        "tamil_word": "நாளேடு",
+        "usage_example": ""
+    },
+    {
+        "name": "பத்திரிகை",
+        "tamil_word": "இதழ், செய்தித் தாள்",
+        "usage_example": ""
+    },
+    {
+        "name": "கிரந்தம்",
+        "tamil_word": "புத்தகம், நூல்",
+        "usage_example": ""
+    },
+    {
+        "name": "சாசனம்",
+        "tamil_word": "விதி, விதிமுறை",
+        "usage_example": ""
+    },
+    {
+        "name": "பாயாசம்",
+        "tamil_word": "திருக்கண்ணமுது",
+        "usage_example": ""
+    },
+    {
+        "name": "ததியோதனம்",
+        "tamil_word": "தயிர் அன்னம்",
+        "usage_example": ""
+    },
+    {
+        "name": "டமருகம்",
+        "tamil_word": "உடுக்கை",
+        "usage_example": ""
+    },
+    {
+        "name": "வசந்தம்",
+        "tamil_word": "வேனில்",
+        "usage_example": ""
+    },
+    {
+        "name": "பைசாசம்",
+        "tamil_word": "பேய், பிசாசு",
+        "usage_example": ""
+    },
+    {
+        "name": "சூத்திரம்",
+        "tamil_word": "விதி, தேற்றம்",
+        "usage_example": "Pythogoras சூத்திரம் = Pythogoras தேற்றம்/விதி"
+    },
+    {
+        "name": "சகோதரி",
+        "tamil_word": "உடன்பிறந்தாள்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜனானா",
+        "tamil_word": "அந்தப்புரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜவ்வு",
+        "tamil_word": "சவ்வு, மென்தோல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜிமிக்கி",
+        "tamil_word": "காதுக்கொடி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்தீரி",
+        "tamil_word": "பெண்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்பரிசம்",
+        "tamil_word": "தீண்டல், தொடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஷண்முகம்",
+        "tamil_word": "அறுமுகம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஷண்",
+        "tamil_word": "ஆறு",
+        "usage_example": ""
+    },
+    {
+        "name": "அஷ்டம்",
+        "tamil_word": "எட்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "சப்தம்",
+        "tamil_word": "ஒலி, (எண் வகையில்) ஏழு",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரதமம்",
+        "tamil_word": "முதன்மை",
+        "usage_example": ""
+    },
+    {
+        "name": "த்வீதியம்",
+        "tamil_word": "இருமை, இரண்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "பஞ்சமம்",
+        "tamil_word": "ஐந்து",
+        "usage_example": ""
+    },
+    {
+        "name": "நவ",
+        "tamil_word": "ஒன்பது",
+        "usage_example": ""
+    },
+    {
+        "name": "சதம்",
+        "tamil_word": "நூறு",
+        "usage_example": ""
+    },
+    {
+        "name": "விசர்ஜனம்",
+        "tamil_word": "முழுக்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "வந்தே மாதரம்",
+        "tamil_word": "தாயே வணக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "வந்தனம்",
+        "tamil_word": "வணக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸ்பஷ்டம்",
+        "tamil_word": "தெளிவு",
+        "usage_example": ""
+    },
+    {
+        "name": "ரீதி",
+        "tamil_word": "வழி, முறை, கோணம்,",
+        "usage_example": "இதே ரீதியில் = இதே வழியில் / இதே முறையில்"
+    },
+    {
+        "name": "சகஸ்ரம்",
+        "tamil_word": "ஆயிரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "திருஷ்டி ",
+        "tamil_word": "கண்ணெச்சில், கண்ணேறு, அந்திக்காப்பு",
+        "usage_example": "அவன் மேல் திருஷ்டி பட்டிருக்கும் = அவன் மேல் கண்ணெச்சில் பட்டிருக்கும்"
+    },
+    {
+        "name": "மயானம்",
+        "tamil_word": "சுடலை",
+        "usage_example": "சுடலை; இடுகாடு"
+    },
+    {
+        "name": "ஜுவாலை",
+        "tamil_word": "தீச்சுடர், கொழுந்து",
+        "usage_example": "தீச்சுடர் எங்கும் பரவியது."
+    },
+    {
+        "name": "பிரஸ்தாபம்",
+        "tamil_word": "பேச்சு",
+        "usage_example": ""
+    },
+    {
+        "name": "சொஸ்தம்",
+        "tamil_word": "நலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "புஜம்",
+        "tamil_word": "கை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜோர்",
+        "tamil_word": "அருமை",
+        "usage_example": "நீ சொன்னது மிகவும் அருமை(ஜோர்)"
+    },
+    {
+        "name": "வஸ்து",
+        "tamil_word": "பொருள்",
+        "usage_example": "இதென்ன பொருள்?"
+    },
+    {
+        "name": "அஸ்தி",
+        "tamil_word": "எலும்பு, உடல், இருத்தல்",
+        "usage_example": "இறந்தவரின் உடற்சாம்லைக் கரைத்தோம்."
+    },
+    {
+        "name": "மோஸ்தர்",
+        "tamil_word": "பாணி",
+        "usage_example": "அரைக்கால்சட்டைதான் இன்றைய பாணி."
+    },
+    {
+        "name": "தக்ஷிணம்",
+        "tamil_word": "தெற்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "தட்சிணாயணம்",
+        "tamil_word": "தென்வழி",
+        "usage_example": "ஆடி முதல் மார்கழி வரை, கதிரவன் தென் கிழக்காய்ச் செல்லல்"
+    },
+    {
+        "name": "உத்தராயணம்",
+        "tamil_word": "வடவழி",
+        "usage_example": "தை முதல் ஆனி வரை, கதிரவன் வட கிழக்காய்ச் செல்லல்"
+    },
+    {
+        "name": "தட்சிணம்",
+        "tamil_word": "தெற்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "உத்திரம்",
+        "tamil_word": "வடக்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "வசந்த காலம்",
+        "tamil_word": "வேனிற்காலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "நிரஞ்சனா",
+        "tamil_word": "மாசிலி, அமலை",
+        "usage_example": "மாசுமறு அற்றவள்"
+    },
+    {
+        "name": "பரிசுத்தம்",
+        "tamil_word": "தூய்மை",
+        "usage_example": "பரிசுத்தமான தமிழ் = தூய தமிழ்"
+    },
+    {
+        "name": "வார்த்தை",
+        "tamil_word": "சொல்",
+        "usage_example": ""
+    },
+    {
+        "name": "சில்மிஷம்",
+        "tamil_word": "குறும்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "தர்மம்",
+        "tamil_word": "அறம்",
+        "usage_example": ""
+    },
+    {
+        "name": "கர்மம்",
+        "tamil_word": "செயல்",
+        "usage_example": ""
+    },
+    {
+        "name": "முஷ்டி",
+        "tamil_word": "முழங்கை",
+        "usage_example": ""
+    },
+    {
+        "name": "சர்வ ரோக நிவாரிணி",
+        "tamil_word": "பல நோய்ப் போக்கி",
+        "usage_example": ""
+    },
+    {
+        "name": "நிவாரணம்",
+        "tamil_word": "ஈடு, இழப்பீடு",
+        "usage_example": "நிவாரணத் தொகை=ஈட்டுத் தொகை, நிவாரணப் பணிகள்=ஈட்டுப் பணிகள்"
+    },
+    {
+        "name": "ஜாடை",
+        "tamil_word": "சாயல்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜடை",
+        "tamil_word": "பின்னல்",
+        "usage_example": ""
+    },
+    {
+        "name": "லட்சணம்",
+        "tamil_word": "அழகு",
+        "usage_example": ""
+    },
+    {
+        "name": "டாம்பீகம்",
+        "tamil_word": "வீண்பெருமை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜம்பு",
+        "tamil_word": "நாவல் (பழம்)",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜம்புத்வீபம்",
+        "tamil_word": "நாவலந்தீவு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஹஸ்தம்",
+        "tamil_word": "கை",
+        "usage_example": ""
+    },
+    {
+        "name": "சந்தர்ப்பம்",
+        "tamil_word": "தருணம், தருவாய்",
+        "usage_example": ""
+    },
+    {
+        "name": "இரகசியம்",
+        "tamil_word": "கமுக்கம், மறைபொருள்",
+        "usage_example": ""
+    },
+    {
+        "name": "வசனம்",
+        "tamil_word": "உரையாடல்",
+        "usage_example": "அப்படத்தில் சிறப்பான உரையாடல்கள் இருந்தன"
+    },
+    {
+        "name": "கலாசாலை",
+        "tamil_word": "பள்ளிக்கூடம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சயனம்",
+        "tamil_word": "தூக்கம், உறக்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "திரிவேணி சங்கமம்",
+        "tamil_word": "முக்கூடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "விருத்தாச்சலம்",
+        "tamil_word": "பழமலை, முதுகுன்றம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சிதம்பரம்",
+        "tamil_word": "திருச்சிற்றம்பலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "திண்டிவனம்",
+        "tamil_word": "புளியங்காடு",
+        "usage_example": ""
+    },
+    {
+        "name": "வேதாரண்யம்",
+        "tamil_word": "திருமரைக்காடு",
+        "usage_example": "மரை எனும் மான்கள் வாழும் காடு"
+    },
+    {
+        "name": "சைவம்",
+        "tamil_word": "மரக்கறி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜோசியர்",
+        "tamil_word": "கணியன்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜோலார்பேட்",
+        "tamil_word": "சோலையார்ப்பேட்டை",
+        "usage_example": ""
+    },
+    {
+        "name": "சவால்",
+        "tamil_word": "அறைகூவல்",
+        "usage_example": ""
+    },
+    {
+        "name": "கர்ப்பகிரஹம்",
+        "tamil_word": "கருவறை",
+        "usage_example": ""
+    },
+    {
+        "name": "சாரதி",
+        "tamil_word": "வலவர்",
+        "usage_example": ""
+    },
+    {
+        "name": "சாஷ்டாங்கம்",
+        "tamil_word": "நெடுஞ்சாண்கிடை",
+        "usage_example": "நெடுஞ்சாண்கிடையாக காலில் விழுந்து வாழ்த்து பெற்றான்"
+    },
+    {
+        "name": "ஆச்சரியம்",
+        "tamil_word": "விந்தை",
+        "usage_example": ""
+    },
+    {
+        "name": "யுத்தம்",
+        "tamil_word": "போர்",
+        "usage_example": ""
+    },
+    {
+        "name": "எமன்",
+        "tamil_word": "கூற்றுவன்",
+        "usage_example": ""
+    },
+    {
+        "name": "சபதம்",
+        "tamil_word": "சூளுரைத்தல்",
+        "usage_example": ""
+    },
+    {
+        "name": "விவாகம்",
+        "tamil_word": "திருமணம்",
+        "usage_example": ""
+    },
+    {
+        "name": "விவாகரத்து",
+        "tamil_word": "மணமுறிவு",
+        "usage_example": ""
+    },
+    {
+        "name": "அகதி",
+        "tamil_word": "ஏதிலி",
+        "usage_example": ""
+    },
+    {
+        "name": "நிரூபணம்",
+        "tamil_word": "உறுதிப்பாடு",
+        "usage_example": "உண்மைக்கு உறுதிப்பாடு தேவையா?"
+    },
+    {
+        "name": "நிர்பந்தம்",
+        "tamil_word": "கட்டாயம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சாயங்காலம்",
+        "tamil_word": "மாலை நேரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சுவாரஸ்யம்",
+        "tamil_word": "சுவையாரம், ஆர்வமூட்டுவதாக",
+        "usage_example": ""
+    },
+    {
+        "name": "அசரீரி",
+        "tamil_word": "வானிழல்; உடலற்ற பொருள்;",
+        "usage_example": "வானிழல் கூறியதைக் கேளாய்."
+    },
+    {
+        "name": "ஹேஷ்யம்",
+        "tamil_word": "ஊகம்",
+        "usage_example": "ஒரு ஹேஷ்யம்; ஒரு ஊகம்"
+    },
+    {
+        "name": "சூதனம்",
+        "tamil_word": "கவனம், எச்சரிக்கை, பத்திரம், விழிப்பு, காத்தல்",
+        "usage_example": "கவனமாக இரு."
+    },
+    {
+        "name": "சம்பவம்",
+        "tamil_word": "நிகழ்வு",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரகடனம்",
+        "tamil_word": "அறிவித்தல் ",
+        "usage_example": ""
+    },
+    {
+        "name": "லஞ்சம்",
+        "tamil_word": "கையூட்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "பஸ்பம்",
+        "tamil_word": "பொடி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜகஜ்ஜோதி",
+        "tamil_word": "ஒளிவெள்ளம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஏகதேச உருவகம்",
+        "tamil_word": "ஒருபுடை உருவகம்",
+        "usage_example": ""
+    },
+    {
+        "name": "அம்சம்",
+        "tamil_word": "இயல்பு",
+        "usage_example": "இதன் சிறப்பம்சம் = இதன் சிறப்பியல்பு"
+    },
+    {
+        "name": "சம்சாரம்",
+        "tamil_word": "மனைவி (அ) உலகம்",
+        "usage_example": ""
+    },
+    {
+        "name": "மெளனம்",
+        "tamil_word": "அமைதி",
+        "usage_example": ""
+    },
+    {
+        "name": "நிசப்தம்",
+        "tamil_word": "ஒலியின்மை, அமைதி",
+        "usage_example": ""
+    },
+    {
+        "name": "நிஷ்காம்யம்",
+        "tamil_word": "பற்றின்மை",
+        "usage_example": ""
+    },
+    {
+        "name": "கலசம்",
+        "tamil_word": "கலயம், திருக்குடம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஹோமம்",
+        "tamil_word": "வேள்வி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரேமை",
+        "tamil_word": "காதல்",
+        "usage_example": ""
+    },
+    {
+        "name": "சுந்தரம்",
+        "tamil_word": "அழகு",
+        "usage_example": ""
+    },
+    {
+        "name": "சபை",
+        "tamil_word": "அவை",
+        "usage_example": "சட்டசபை = சட்டப் பேரவை"
+    },
+    {
+        "name": "நடராஜர்",
+        "tamil_word": "கூத்தபிரான், ஆடலரசன், ஆடல்வல்லான்",
+        "usage_example": ""
+    },
+    {
+        "name": "தேகம்",
+        "tamil_word": "உடல்",
+        "usage_example": ""
+    },
+    {
+        "name": "துஷ்ட",
+        "tamil_word": "தீய",
+        "usage_example": "துஷ்ட சக்தி = தீய சக்தி"
+    },
+    {
+        "name": "ரேகை",
+        "tamil_word": "கோடு",
+        "usage_example": "பூ மத்திய ரேகை = நில நடுக் கோடு"
+    },
+    {
+        "name": "துருவம்",
+        "tamil_word": "முனை",
+        "usage_example": "வட துருவம் = வட முனை =  north pole"
+    },
+    {
+        "name": "வெராண்டா",
+        "tamil_word": "தாழ்வாரம்",
+        "usage_example": ""
+    },
+    {
+        "name": "அக்னி",
+        "tamil_word": "தீ, நெருப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "சன்மானம்",
+        "tamil_word": "வெகுமதி, பரிசு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஜலஜா",
+        "tamil_word": "அலைமகள்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஷைலஜா",
+        "tamil_word": "மலைமகள்",
+        "usage_example": ""
+    },
+    {
+        "name": "சாகரம்",
+        "tamil_word": "கடல், ஆழி",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆசீர்வாதம்",
+        "tamil_word": "வாழ்த்து",
+        "usage_example": "ஆசீர்வாதம் பண்ணுங்க = வாழ்த்துங்க"
+    },
+    {
+        "name": "அபிவிருத்தி",
+        "tamil_word": "வளர்ச்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "சிகிச்சை",
+        "tamil_word": "மருத்தீடு, மருத்துவமுறை",
+        "usage_example": "Medical Treatment = மருத்தீடு"
+    },
+    {
+        "name": "சவுகரியம்",
+        "tamil_word": "நலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "மயூரம்",
+        "tamil_word": "மயில்",
+        "usage_example": ""
+    },
+    {
+        "name": "சிம்மம்",
+        "tamil_word": "சிங்கம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பூகோளம்",
+        "tamil_word": "புவியியல்",
+        "usage_example": ""
+    },
+    {
+        "name": "தாவரம்",
+        "tamil_word": "செடி",
+        "usage_example": ""
+    },
+    {
+        "name": "தாவரவியல்",
+        "tamil_word": "செடியியல்",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரபலம்",
+        "tamil_word": "பெரும்புள்ளி, பரவலான",
+        "usage_example": " அவர் சேலை வணிகத்தில் பெரும்புள்ளி"
+    },
+    {
+        "name": "உற்சாகம்",
+        "tamil_word": "மகிழ்ச்சி",
+        "usage_example": "என்ன உற்சாகமாய் இருக்கிறாய்? - என்ன மகிழ்ச்சியாய் இருக்கிறாய்?"
+    },
+    {
+        "name": "சமர்ப்பணம்",
+        "tamil_word": "படைத்தல்",
+        "usage_example": "இந்த வெற்றி கடவுளுக்கு சமர்ப்பணம் - இந்த வெற்றி கடவுளுக்கு படைக்கிறேன் "
+    },
+    {
+        "name": "புதன்",
+        "tamil_word": "அறிவன்",
+        "usage_example": "இன்று புதன்கிழமை - இன்று அறிவன் கிழமை "
+    },
+    {
+        "name": "சனி",
+        "tamil_word": "காரி",
+        "usage_example": "இன்று சனிக்கிழமை - இன்று காரிக்கிழமை"
+    },
+    {
+        "name": "சாபம்",
+        "tamil_word": "தூற்று, தூற்றுதல், சாவம்",
+        "usage_example": ""
+    },
+    {
+        "name": "விமோசனம்",
+        "tamil_word": "விடுதலை",
+        "usage_example": ""
+    },
+    {
+        "name": "பூஜ்யம்",
+        "tamil_word": "சுழியம்",
+        "usage_example": ""
+    },
+    {
+        "name": "கார்யம்",
+        "tamil_word": "வேலை, பணி",
+        "usage_example": ""
+    },
+    {
+        "name": "அபராதம்",
+        "tamil_word": "தண்டம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ரோந்து",
+        "tamil_word": "சுற்று",
+        "usage_example": ""
+    },
+    {
+        "name": "அத்தியாவசியம்",
+        "tamil_word": "இன்றியமையாத",
+        "usage_example": ""
+    },
+    {
+        "name": "உத்தேசம்",
+        "tamil_word": "மதிப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆமோதி",
+        "tamil_word": "வழிமொழி",
+        "usage_example": ""
+    },
+    {
+        "name": "அனுபவம்",
+        "tamil_word": "பட்டறிவு",
+        "usage_example": ""
+    },
+    {
+        "name": "அந்நியம்",
+        "tamil_word": "அயல்",
+        "usage_example": ""
+    },
+    {
+        "name": "அக்ஷி",
+        "tamil_word": "கண்",
+        "usage_example": ""
+    },
+    {
+        "name": "அலங்காரம்",
+        "tamil_word": "அணி",
+        "usage_example": ""
+    },
+    {
+        "name": "திருப்தி",
+        "tamil_word": "நிறைவு",
+        "usage_example": ""
+    },
+    {
+        "name": "அதிசயம்",
+        "tamil_word": "வியப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "அங்கம்",
+        "tamil_word": "உறுப்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "அவசரம்",
+        "tamil_word": "விரைவு",
+        "usage_example": ""
+    },
+    {
+        "name": "அறிவு ஜீவி",
+        "tamil_word": "அறிவாளர்கள், அறிவாளர்",
+        "usage_example": "அறிவாளர்கள், அறிவாளர்"
+    },
+    {
+        "name": "சிநேகம்",
+        "tamil_word": "நட்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "ஸர்ப்பம்",
+        "tamil_word": "பாம்பு",
+        "usage_example": "நச்சுள்ள உயிரினம்"
+    },
+    {
+        "name": "கோஷம்",
+        "tamil_word": "குரல்",
+        "usage_example": "கோஷம் போட்டார்கள் = குரல் கொடுத்தார்கள்"
+    },
+    {
+        "name": "முனிவர்",
+        "tamil_word": "அடிகள், துறவி",
+        "usage_example": "வசிஷ்ட முனிவர் = இளங்கோ அடிகள், கவுந்தி அடிகள், இராமலிங்க அடிகள்"
+    },
+    {
+        "name": "சந்நியாசி",
+        "tamil_word": "துறவி",
+        "usage_example": ""
+    },
+    {
+        "name": "அங்கீகாரம்",
+        "tamil_word": "ஏற்பு",
+        "usage_example": ""
+    },
+    {
+        "name": "அபராதி",
+        "tamil_word": "குற்றவாளி",
+        "usage_example": ""
+    },
+    {
+        "name": "நிரபராதி",
+        "tamil_word": "குற்றமற்றவர்",
+        "usage_example": "நிர்+அபராதி = குற்றம்+அற்றவர்"
+    },
+    {
+        "name": "அங்கஹீனம்",
+        "tamil_word": "உடல் ஊனம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பலகீனம்",
+        "tamil_word": "வலுவின்மை",
+        "usage_example": ""
+    },
+    {
+        "name": "பலம்",
+        "tamil_word": "வலிமை",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆரோக்கியம்",
+        "tamil_word": "உடல்நலம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஆனந்தம்",
+        "tamil_word": "மகிழ்ச்சி",
+        "usage_example": ""
+    },
+    {
+        "name": "பாதாளம்",
+        "tamil_word": "படுகுழி, கீழ் உலகம்",
+        "usage_example": "அதல விதல, சுதல நிதல, ரசாதள மகாதள பாதாள -ன்னு 7 கீழ் உலகங்கள் புராணத்தில்; அதல பாதாளம்"
+    },
+    {
+        "name": "பிருஷ்டம்",
+        "tamil_word": "சூத்து, பின்புறம்",
+        "usage_example": ""
+    },
+    {
+        "name": "பயம்",
+        "tamil_word": "அச்சம்",
+        "usage_example": ""
+    },
+    {
+        "name": "ஏகதேசம்",
+        "tamil_word": "தோராயம், ஒருபக்கம், ஒருபுடை",
+        "usage_example": "ஏகதேச உருவகம்= ஒருபுடை உருவகம், ஒருபக்க உருவகம் | ஏகதேசமான முடிவு= தோராயமான முடிவு"
+    },
+    {
+        "name": "ஜி",
+        "tamil_word": "-ங்க",
+        "usage_example": "மரியாதை விகுதி/ ஆண்-பெண் இருவருக்கும் பொது.. Kya Ji= என்னங்க"
+    },
+    {
+        "name": "பிரசங்கம்",
+        "tamil_word": "பேச்சுரை",
+        "usage_example": "மாநாட்டில் தலைவரின் பேச்சுரை"
+    },
+    {
+        "name": "மனஸ்தாபம்",
+        "tamil_word": "பிணக்கு",
+        "usage_example": "கணவன் மனைவியரிடையே உள்ளப்பிணக்குகள் இருத்தலாகாது."
+    },
+    {
+        "name": "தோஷநிவர்த்தி",
+        "tamil_word": "குறைநீக்கம்",
+        "usage_example": "தோஷம் = குறைபாடு"
+    },
+    {
+        "name": "பிரதாபம்",
+        "tamil_word": "பெருமை, கீர்த்தி",
+        "usage_example": "வீரப்பிரதாபங்கள் - வீரவெளிப்பாடுகள், வீரப் பெருமைகள்"
+    },
+    {
+        "name": "நிஜம்",
+        "tamil_word": "உண்மை",
+        "usage_example": "அவன் உண்மை பேசினான்"
+    },
+    {
+        "name": "அஹங்காரம்",
+        "tamil_word": "செருக்கு",
+        "usage_example": ""
+    },
+    {
+        "name": "கலாபம்",
+        "tamil_word": "தோகை",
+        "usage_example": "மயில் தோகை"
+    },
+    {
+        "name": "ராத்திரி",
+        "tamil_word": "இரவு",
+        "usage_example": ""
+    },
+    {
+        "name": "அமானுஷ்யம்",
+        "tamil_word": "மனிதமீறிய",
+        "usage_example": ""
+    },
+    {
+        "name": "நரன்",
+        "tamil_word": "மனிதன்",
+        "usage_example": ""
+    },
+    {
+        "name": "புகார்",
+        "tamil_word": "குற்றச்சாட்டு",
+        "usage_example": ""
+    },
+    {
+        "name": "விநோதம்",
+        "tamil_word": "விந்தை",
+        "usage_example": "ஒரே விநோதமா இருக்கு=  ஒரே விந்தையா இருக்கு"
+    },
+    {
+        "name": "விபரீதம்",
+        "tamil_word": "கேடு",
+        "usage_example": "விபரீத விளைவுகள் ஏற்படும்= கேடான விளைவுகள் ஏற்படும்"
+    },
+    {
+        "name": "ஊர்ஜிதம்",
+        "tamil_word": "உறுதி",
+        "usage_example": ""
+    },
+    {
+        "name": "கடாக்ஷம்",
+        "tamil_word": "அருள்",
+        "usage_example": "லக்ஷ்மி கடாக்ஷம்= திருமகள் அருள்"
+    },
+    {
+        "name": "சிநேகிதி",
+        "tamil_word": "தோழி",
+        "usage_example": ""
+    },
+    {
+        "name": "பிரதமர்",
+        "tamil_word": "தலைமை அமைச்சர்",
+        "usage_example": ""
+    },
+    {
+        "name": "விடயம்",
+        "tamil_word": "சேதி",
+        "usage_example": "என்ன விடயங்க? = என்ன சேதிங்க?"
+    },
+    {
+        "name": "சர்வதேச",
+        "tamil_word": "பன்னாட்டு, அனைத்துலக",
+        "usage_example": ""
+    },
+    {
+        "name": "விவசாயி",
+        "tamil_word": "உழவர்",
+        "usage_example": ""
+    },
+    {
+        "name": "கனகாம்பரம்",
+        "tamil_word": "பொற்சிகை",
+        "usage_example": ""
+    },
+    {
+        "name": "விஸ்தரிப்பு",
+        "tamil_word": "விரிவு",
+        "usage_example": ""
+    },
+    {
+        "name": "சுயம்",
+        "tamil_word": "தன்வயம்",
+        "usage_example": ""
+    },
+    {
+        "name": "சக/ சகோ",
+        "tamil_word": "தம/ தமோ",
+        "usage_example": ""
+    },
+    {
+        "name": "பரிணாம",
+        "tamil_word": "படிமலர்ச்சி",
+        "usage_example": "பரிணாம வளர்ச்சி = படிமலர்ச்சி"
+    }
+]
