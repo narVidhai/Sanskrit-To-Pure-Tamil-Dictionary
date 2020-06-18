@@ -19,11 +19,11 @@
 
 ### Stats
 
-|Source->|Viruba|TamilChol|
-|------:|-------|---------|
-|Total Indic-Tamil Pairs|2724|732|
-|Unique Indic Words|1461|604|
-|Unique Tamil Words|1675|639|
+|Source->|Viruba|TamilChol|Combined|
+|------:|:-------:|:---------:|:-------:|
+|Total Indic-Tamil Pairs|2724|732|3339|
+|Unique Indic Words|1461|604|1853|
+|Unique Tamil Words|1675|639|2068|
 
 ### To Do
 
