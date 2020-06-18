@@ -13,12 +13,14 @@ with open(output_folder + 'raw.json', 'w', encoding='utf-8') as f:
 indic2tamil, indic2tamil_pairs, uniq_tamil = {}, [], set()
 
 for sample in data:
-    indic, tamil = sample['name'].strip(), sample['tamil_word'].strip()
+    indic, tamil_words = sample['name'].strip(), sample['tamil_word'].strip()
+    tamil_words = [w.strip() for w in tamil_words.split(',')]
     if indic not in indic2tamil:
         indic2tamil[indic] = []
-    indic2tamil[indic].append(tamil)
-    uniq_tamil.add(tamil)
-    indic2tamil_pairs.append((indic, tamil))
+    indic2tamil[indic].extend(tamil_words)
+    for tamil in tamil_words:
+        uniq_tamil.add(tamil)
+        indic2tamil_pairs.append((indic, tamil))
 
 print('Total Pairs:\t', len(indic2tamil_pairs))
 print('Indic Words:\t', len(indic2tamil))

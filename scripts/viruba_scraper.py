@@ -28,7 +28,7 @@ def pretty_write_json(data, outfile, sort_keys=False):
         json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=sort_keys)
     return
 
-def process_viruba(output_folder='data/viruba/'):
+def process_viruba(output_folder='data/viruba.com/'):
     
     indic2tamil, indic2tamil_pairs, uniq_tamil = viruba_crawl()
     print('Total Pairs:\t', len(indic2tamil_pairs))
