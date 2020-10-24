@@ -27,7 +27,19 @@ def merge_sources(csv_files, outfile='combined.csv', output_folder='data/'):
         with open(file, encoding='utf-8') as f:
             reader = csv.DictReader(f, fields)
             reader.__next__()
-            dictionaries.append({row['INDIC']: row['TAMIL'].split(',') for row in reader})
+            indic2tamil_pairs = {}
+            for row in reader:
+                keys = row['INDIC'].split(',')
+                values = row['TAMIL'].split(',')
+                for key in keys:
+                    key = key.strip()
+                    if not key:
+                        continue
+                    if key not in indic2tamil_pairs:
+                        indic2tamil_pairs[key] = []
+                    indic2tamil_pairs[key].extend(values)
+            
+            dictionaries.append(indic2tamil_pairs)
     
     indic2tamil, indic2tamil_pairs, uniq_tamil = merge_dictionaries(dictionaries)
     print('Total Pairs:\t', len(indic2tamil_pairs))
@@ -49,6 +61,8 @@ def merge_sources(csv_files, outfile='combined.csv', output_folder='data/'):
 if __name__ == '__main__':
     csv_files = [
         'data/viruba.csv',
-        'data/tamilchol.csv'
+        'data/tamilchol.csv',
+        'data/thamizhdna-org.csv',
+        'data/tamilmandram.csv'
     ]
-    merge_sources(csv_files, 'combined_viruba+tamilchol.csv')
+    merge_sources(csv_files, 'combined_all.csv')
