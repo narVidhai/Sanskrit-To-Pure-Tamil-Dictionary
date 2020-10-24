@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import csv
 
-output_folder = 'data/tamilmandram.com/'
+output_folder = 'data/'
 os.makedirs(output_folder, exist_ok=True)
 
 URL = 'http://www.tamilmantram.com/vb/showthread.php/21268-%E0%AE%A4%E0%AF%82%E0%AE%AF-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%8A%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D'
@@ -27,9 +27,20 @@ for line in lines:
 indic_to_tamil = dict(map(str.strip, line.split("-"))
                       for line in filtered_lines)
     
-with open(output_folder + 'indic2tamil.csv', 'w', encoding='utf-8', newline='') as f:
+with open(output_folder + 'tamilmandram.csv', 'w', encoding='utf-8', newline='') as f:
     fields = ['INDIC','TAMIL']
     writer = csv.DictWriter(f, fieldnames=fields)
     writer.writeheader()
     for key in indic_to_tamil:
         writer.writerow({'INDIC': key, 'TAMIL': indic_to_tamil[key]})
+
+# Print stats
+print('Total Mappings:\t', len(indic_to_tamil))
+
+uniq_indic, uniq_tamil = set(), set()
+for indic_words, tamil_words in indic_to_tamil.items():
+    uniq_indic.update(set(indic_words.split(',')))
+    uniq_tamil.update(set(tamil_words.split(',')))
+
+print('Indic Words:\t', len(uniq_indic))
+print('Tamil Words:\t', len(uniq_tamil))

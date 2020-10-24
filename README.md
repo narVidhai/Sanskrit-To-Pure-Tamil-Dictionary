@@ -6,6 +6,7 @@
 
 - [Indo-Aryan loanwords in Tamil](https://en.wikipedia.org/wiki/Indo-Aryan_loanwords_in_Tamil) - Wikipedia
 - [Sanskrit Roots in Tamil](https://sanskritroots.files.wordpress.com/2013/04/sanskritwordsintamil_v3.pdf) (and corresponding Hindi words)
+- [தனித் தமிழ் இயக்கம்](https://en.wikipedia.org/wiki/Tanittamil_Iyakkam)
 
 ### Sources
 
@@ -17,13 +18,13 @@
 
 [Website](http://tamilchol.com/)
 
-### Stats
+### Dataset Stats
 
 |Source->|Viruba|TamilChol|Combined|
-|------:|:-------:|:---------:|:-------:|
+|----------------------:|:--:|:--:|:--:|
 |Total Indic-Tamil Pairs|2724|732|3339|
-|Unique Indic Words|1461|604|1853|
-|Unique Tamil Words|1675|639|2068|
+|Unique Indic Words     |1461|604|1853|
+|Unique Tamil Words     |1675|639|2068|
 
 ### To Do
 

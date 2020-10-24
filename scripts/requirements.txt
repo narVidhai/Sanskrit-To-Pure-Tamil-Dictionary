@@ -1,2 +1,3 @@
 tqdm
 bs4
+html5lib

@@ -1,4 +1,4 @@
-import requests, json
+import requests, csv
 import sys, os
 from os.path import join
 from bs4 import BeautifulSoup
@@ -23,12 +23,7 @@ def viruba_crawl():
             indic2tamil_pairs.append((indic, tamil))
     return indic2tamil, indic2tamil_pairs, uniq_tamil
 
-def pretty_write_json(data, outfile, sort_keys=False):
-    with open(outfile, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=sort_keys)
-    return
-
-def process_viruba(output_folder='data/viruba.com/'):
+def process_viruba(output_folder='data/'):
     
     indic2tamil, indic2tamil_pairs, uniq_tamil = viruba_crawl()
     print('Total Pairs:\t', len(indic2tamil_pairs))
@@ -36,24 +31,15 @@ def process_viruba(output_folder='data/viruba.com/'):
     print('Tamil Words:\t', len(uniq_tamil))
     
     os.makedirs(output_folder, exist_ok=True)
-    pretty_write_json(indic2tamil, join(output_folder, 'indic2tamil.json'), True)
     
-    csv_string = 'INDIC,TAMIL\n'
-    csv_string += '\n'.join(','.join(pair) for pair in indic2tamil_pairs)
-    with open(join(output_folder, 'indic2tamil.csv'), 'w', encoding='utf-8') as f:
-        f.write(csv_string)
-    
-    indic_words_txt = '\n'.join(list(indic2tamil.keys()))
-    tamil_words_txt = '\n'.join(uniq_tamil)
-    
-    with open(join(output_folder, 'unique_tamil_words.txt'), 'w', encoding='utf-8') as f:
-        f.write(tamil_words_txt)
-    
-    with open(join(output_folder, 'unique_indic_words.txt'), 'w', encoding='utf-8') as f:
-        f.write(indic_words_txt)
+    with open(join(output_folder, 'viruba.csv'), 'w', newline="\n", encoding='utf-8') as f:
+        fields = ['INDIC', 'TAMIL']
+        writer = csv.DictWriter(f, fieldnames=fields)
+        writer.writeheader()
+        for key in indic2tamil:
+            writer.writerow({'INDIC': key, 'TAMIL': ",".join(indic2tamil[key])})
     
     return
 
 if __name__ == '__main__':
     process_viruba()
-    
